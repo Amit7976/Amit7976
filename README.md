@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*L_QoAG863l8QvqxpNyBiqw.gif" width="100%" alt="amit7976" />
+<img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" width="100%" alt="amit7976" />
 <h1 align="center">Hi 👋, I'm Amit Gupta</h1>
 <h3 align="center">Full-Stack Web Developer (Frontend and Backend Developer) | Proficient in HTML, CSS, JavaScript, Typescript, React.JS, Next.JS, PHP, MySQL | Good in GitHub | Expert in Tailwind CSS, Bootstrap</h3>
 
