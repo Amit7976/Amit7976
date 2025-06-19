@@ -1,10 +1,11 @@
-<img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" width="100%" alt="amit7976" />
-<h1 align="center">Hi 👋, I'm Amit Gupta</h1>
-<h3 align="center">Full-Stack Web Developer (Frontend and Backend Developer) | Proficient in HTML, CSS, JavaScript, Typescript, React.JS, Next.JS, PHP, MySQL | Good in GitHub | Expert in Tailwind CSS, Bootstrap</h3>
+<img src="https://www.zuplic.com/wp-content/uploads/2025/02/web-developer-career.gif" width="100%" alt="amit7976" />
+<h1 align="center">Amit Gupta</h1>
+<h3 align="center">Full-Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit7976&label=Profile%20views&color=0e75b6&style=flat" alt="amit7976" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit7976" alt="amit7976" /></a> </p>
+<br>
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit7976" alt="amit7976" /></a> </p>
 
 - 🌱 I’m currently learning **new technologies**
 
@@ -34,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit7976&show_icons=true&locale=en&layout=compact" alt="amit7976" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit7976&show_icons=true&locale=en" alt="amit7976" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit7976&" alt="amit7976" /></p>
